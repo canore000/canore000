@@ -1,9 +1,6 @@
-##olá! Eu sou o  Gabriel
+##olá! Eu sou o Gabriel!
 
-- 🔭 Hoje eu trabalho com fron-end
-- 🌱 I’m currently learning  JavaScript
-- 📫 Contate-me no email:gabrielalves6@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <div align = "center">
         <a href="https://github.com/canore000">

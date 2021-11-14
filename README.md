@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com fron-end
 - 🌱 I’m currently learning  JavaScript
-- 📫 Contate-me no email: gabrielalves2p@gmail.com
+- 📫 Contate-me no email:gabrielalves6@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align = "center">
